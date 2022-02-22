@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratyushmjm
-- 👀 I’m interested in new skills
-- 🌱 I’m currently learning MERN satck
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me rpratyushgcr@gmail.com
 
