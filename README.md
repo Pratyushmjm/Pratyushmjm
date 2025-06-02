@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratyushmjm
 - 👀 I’m interested in learning new skills
-- 🌱 I’m a frontend developer having approx 3 years of experience.
+- 🌱 I’m a fullstack developer having approx 3 years of experience.
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me pratyushmjm21@gmail.com
 
