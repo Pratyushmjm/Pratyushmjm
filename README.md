@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Pratyushmjm
-- 👀 I’m interested in learning new skills
-- 🌱 I’m a fullstack developer having approx 3 years of experience.
-- 💞️ I’m looking to collaborate on backend
-- 📫 How to reach me pratyushmjm21@gmail.com
+👨‍💻 I specialize in frontend and backend development with a strong focus on performance and user experience.
+🧠 I enjoy solving real-world problems, learning emerging technologies.
+💼 Tech Stack
+Frontend
+React · Next.js · Redux Toolkit · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS
+
+Backend
+Node.js · Express.js · MongoDB · REST APIs · Mongoose
+
+Tools & DevOps
+Git & GitHub · Postman · VS Code · Vercel · Netlify · Docker
+
+📫 Email: pratyushmjm21@gmail.com
+
+💼 LinkedIn: linkedin.com/in/pratyushrajafrontend
+
+
 
 <!---
 Pratyushmjm/Pratyushmjm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
